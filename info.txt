@@ -1,0 +1,6 @@
+systemProp.http.proxyHost=proxy02.merann.ru
+systemProp.http.proxyPort=8080
+
+gradlew.bat  build
+java -jar build/libs/gs-messaging-stomp-websocket-0.1.0.jar
+
